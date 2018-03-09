@@ -4,7 +4,7 @@ public class StringDemo05 {
 
 	public static void main(String[] args) {
 		/**
-		 * 查找字符串
+		 * 查找字符串  UIUC也一样
 		 */
 		String s = "ABC123中国在中国的位置";
 		//在s中查找“中国”出现的位置
